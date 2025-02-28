@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/gen_subtitles.egg-info/PKG-INFO
+src/gen_subtitles.egg-info/SOURCES.txt
+src/gen_subtitles.egg-info/dependency_links.txt
+src/gen_subtitles.egg-info/entry_points.txt
+src/gen_subtitles.egg-info/top_level.txt
