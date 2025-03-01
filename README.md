@@ -23,7 +23,7 @@ A command-line tool for generating and translating subtitles using OpenAI's APIs
 ### Install from PyPI
 
 ```bash
-pip install gen-subtitles
+pip install git+https://github.com/johnyrose/gen-subtitles.git
 ```
 
 ### Install from Source
